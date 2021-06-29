@@ -19,7 +19,7 @@ Sentiment Analysis is the most common text classification tool that analyses an 
 
 Cloning this repository:
 ```
-git clone https://github.com/Nishit014/Virtual-Drums.git
+git clone https://github.com/Nishit014/Sentiment-Analysis.git
 ```
 Install the required packages in your environment by using pip.
 ```
